@@ -1,4 +1,3 @@
-package com.example;
 
 /*
  * an area has exits, items and characters

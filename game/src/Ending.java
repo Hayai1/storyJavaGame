@@ -1,4 +1,3 @@
-package com.example;
 
 public class Ending {
     private String dialogue;

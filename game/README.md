@@ -1,18 +1,15 @@
-## Getting Started
+## Simple Java Story Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+this is a simple java application made to tell a story with options. Depending on what you choose the outcome and ending will change.
 
-## Folder Structure
+## How to run
 
-The workspace contains two folders by default, where:
+clone the repository:
+    -   if your running on vs code open the storyJavaGame folder and run the main file
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to play
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+read the dialgoue and decide what item to pick up, what trail to go down or what character to talk to by inputing the number for the corresponding option.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Have fun!
